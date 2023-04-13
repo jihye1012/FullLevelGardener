@@ -1,5 +1,6 @@
 #pragma once
 
+
 #ifndef __IOSTREAM__ //__IOSTREAM__매크로가 정의되어 있지 않다면
 #define __IOSTREAM__ // 정의
 #include <iostream> //헤더파일 선언

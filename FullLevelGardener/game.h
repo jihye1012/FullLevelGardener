@@ -11,7 +11,11 @@
 #define SPACE 4 //스페이스바
 
 
-
+void gameLoop(int);
 int keyControl();
 void titleDraw();
 int menuDraw();
+int levelListDraw();
+void drawMap(int*, int*);
+void move(int*, int*, int, int); 
+void drawUI(int*, int*);
